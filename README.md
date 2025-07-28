@@ -60,13 +60,6 @@ A comprehensive mobile application for veterinary service management, built with
 ### Flutter Dashboard
 A responsive and customizable admin dashboard template built with Flutter. It provides a clean interface for data visualization, user management, and system monitoring with support for both mobile and web platforms.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevoking&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Kevin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevoking&hide_border=true&layout=compact&theme=react" alt="Kevin's Top Languages" />
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
