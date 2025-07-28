@@ -42,8 +42,8 @@ I'm a seasoned **Senior Mobile Applications Developer** with extensive expertise
   <a href="https://github.com/kevoking/vet_mkononi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=vet_mkononi&theme=react&hide_border=true" alt="Vet Mkononi" />
   </a>
-  <a href="https://github.com/kevoking/flutter-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=flutter-dashboard&theme=react&hide_border=true" alt="Flutter Dashboard" />
+  <a href="https://github.com/kevoking/flutter-responsive-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=flutter-responsive-app&theme=react&hide_border=true" alt="Flutter Responsive Dashboard" />
   </a>
 </div>
 
