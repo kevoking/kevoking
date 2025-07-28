@@ -39,16 +39,20 @@ I'm a seasoned **Senior Mobile Applications Developer** with extensive expertise
 ## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/kevoking/nextjs-auth-sample">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=nextjs-auth-sample&theme=react&hide_border=true" alt="Nextjs - Firebase Stater" />
+  </a>
   <a href="https://github.com/kevoking/vet_mkononi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=vet_mkononi&theme=react&hide_border=true" alt="Vet Mkononi" />
   </a>
   <a href="https://github.com/kevoking/flutter-responsive-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=flutter-responsive-app&theme=react&hide_border=true" alt="Flutter Responsive Dashboard" />
   </a>
-  <a href="https://github.com/kevoking/nextjs-auth-sample">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=nextjs-auth-sample&theme=react&hide_border=true" alt="Nextjs - Firebase Stater" />
-  </a>
 </div>
+
+### Nextjs - Firebase Stater
+Full-stack Next.js authentication boilerplate with Firebase backend, TypeScript, shadcn/ui components, and modern development practices. Perfect starter for production apps.
+<a href="https://nextjs-auth-sample-peach.vercel.app/">Nextjs - Firebase Stater</a>
 
 ### Vet Mkononi
 A comprehensive mobile application for veterinary service management, built with Flutter and Firebase. The app streamlines the process of connecting veterinarians with pet owners, managing appointments, medical records, and payments.
