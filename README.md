@@ -45,6 +45,9 @@ I'm a seasoned **Senior Mobile Applications Developer** with extensive expertise
   <a href="https://github.com/kevoking/flutter-responsive-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=flutter-responsive-app&theme=react&hide_border=true" alt="Flutter Responsive Dashboard" />
   </a>
+  <a href="https://github.com/kevoking/nextjs-auth-sample">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevoking&repo=nextjs-auth-sample&theme=react&hide_border=true" alt="Nextjs - Firebase Stater" />
+  </a>
 </div>
 
 ### Vet Mkononi
